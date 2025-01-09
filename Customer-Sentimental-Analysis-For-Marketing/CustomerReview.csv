@@ -1,0 +1,6 @@
+﻿Review_ID,Customer_ID,Review,Rating,Sentiment
+1,101,"Great product,fast delivery!",5,Positive
+2,102,"Terrible experience, very late shipping.",1,Negative
+3,103,"Good quality,but customer support was not helpful.",3,Neutral
+4,104,Loved the service very smooth and quick delivery!,5,Positive
+5,105,"Not worth the price, quality is poor.",2,Negative
